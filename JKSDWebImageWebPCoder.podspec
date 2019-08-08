@@ -18,7 +18,7 @@ This is a SDWebImage coder plugin to support WebP image.
   s.watchos.deployment_target = '2.0'
   s.module_map = 'SDWebImageWebPCoder/Module/JKSDWebImageWebPCoder.modulemap'
   
-  s.source_files = 'SDWebImageWebPCoder/Classes/**/*', 'SDWebImageWebPCoder/Module/SDWebImageWebPCoder.h'
+  s.source_files = 'SDWebImageWebPCoder/Classes/**/*', 'SDWebImageWebPCoder/Module/JKSDWebImageWebPCoder.h'
   s.xcconfig = {
     'GCC_PREPROCESSOR_DEFINITIONS' => '$(inherited) SD_WEBP=1',
     'USER_HEADER_SEARCH_PATHS' => '$(inherited) $(SRCROOT)/libwebp/src'
