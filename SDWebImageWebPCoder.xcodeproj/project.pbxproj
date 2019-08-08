@@ -19,32 +19,11 @@
 		808C919D213FD2B2004B0F7C /* TestImageAnimated.webp in Resources */ = {isa = PBXBuildFile; fileRef = 808C919B213FD2B2004B0F7C /* TestImageAnimated.webp */; };
 		80BFF2352136AA9100B95470 /* libwebp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 80BFF2332136AA9100B95470 /* libwebp.framework */; };
 		80BFF2362136AA9100B95470 /* SDWebImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 80BFF2342136AA9100B95470 /* SDWebImage.framework */; };
-		80BFF24B2136BB0D00B95470 /* libwebp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 80BFF2492136BB0D00B95470 /* libwebp.framework */; };
-		80BFF24C2136BB0D00B95470 /* SDWebImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 80BFF24A2136BB0D00B95470 /* SDWebImage.framework */; };
-		80BFF24D2136BC0600B95470 /* JKSDWebImageWebPCoder.h in Headers */ = {isa = PBXBuildFile; fileRef = 806E77C62136A7AD00A316D2 /* JKSDWebImageWebPCoder.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		80BFF24E2136BC1000B95470 /* SDImageWebPCoder.h in Headers */ = {isa = PBXBuildFile; fileRef = 806E77AB2136A2E900A316D2 /* SDImageWebPCoder.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		80BFF24F2136BC1300B95470 /* SDImageWebPCoder.m in Sources */ = {isa = PBXBuildFile; fileRef = 806E77AE2136A2E900A316D2 /* SDImageWebPCoder.m */; };
-		80BFF2502136BC1500B95470 /* UIImage+WebP.h in Headers */ = {isa = PBXBuildFile; fileRef = 806E77AD2136A2E900A316D2 /* UIImage+WebP.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		80BFF2512136BC1800B95470 /* UIImage+WebP.m in Sources */ = {isa = PBXBuildFile; fileRef = 806E77AA2136A2E900A316D2 /* UIImage+WebP.m */; };
-		80BFF25F2136BE1700B95470 /* SDImageWebPCoder.h in Headers */ = {isa = PBXBuildFile; fileRef = 806E77AB2136A2E900A316D2 /* SDImageWebPCoder.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		80BFF2602136BE1A00B95470 /* SDImageWebPCoder.m in Sources */ = {isa = PBXBuildFile; fileRef = 806E77AE2136A2E900A316D2 /* SDImageWebPCoder.m */; };
-		80BFF2612136BE1C00B95470 /* UIImage+WebP.h in Headers */ = {isa = PBXBuildFile; fileRef = 806E77AD2136A2E900A316D2 /* UIImage+WebP.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		80BFF2622136BE1F00B95470 /* UIImage+WebP.m in Sources */ = {isa = PBXBuildFile; fileRef = 806E77AA2136A2E900A316D2 /* UIImage+WebP.m */; };
-		80BFF2632136BE2200B95470 /* JKSDWebImageWebPCoder.h in Headers */ = {isa = PBXBuildFile; fileRef = 806E77C62136A7AD00A316D2 /* JKSDWebImageWebPCoder.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		80BFF2672136BE4200B95470 /* SDWebImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 80BFF2652136BE4200B95470 /* SDWebImage.framework */; };
-		80BFF2682136BE4200B95470 /* libwebp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 80BFF2662136BE4200B95470 /* libwebp.framework */; };
-		80BFF2792136BEE000B95470 /* SDWebImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 80BFF2772136BEE000B95470 /* SDWebImage.framework */; };
-		80BFF27A2136BEE000B95470 /* libwebp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 80BFF2782136BEE000B95470 /* libwebp.framework */; };
-		80BFF27B2136BEE700B95470 /* SDImageWebPCoder.h in Headers */ = {isa = PBXBuildFile; fileRef = 806E77AB2136A2E900A316D2 /* SDImageWebPCoder.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		80BFF27C2136BEEB00B95470 /* SDImageWebPCoder.m in Sources */ = {isa = PBXBuildFile; fileRef = 806E77AE2136A2E900A316D2 /* SDImageWebPCoder.m */; };
-		80BFF27D2136BEED00B95470 /* UIImage+WebP.h in Headers */ = {isa = PBXBuildFile; fileRef = 806E77AD2136A2E900A316D2 /* UIImage+WebP.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		80BFF27E2136BEF000B95470 /* UIImage+WebP.m in Sources */ = {isa = PBXBuildFile; fileRef = 806E77AA2136A2E900A316D2 /* UIImage+WebP.m */; };
-		80BFF27F2136BEF200B95470 /* JKSDWebImageWebPCoder.h in Headers */ = {isa = PBXBuildFile; fileRef = 806E77C62136A7AD00A316D2 /* JKSDWebImageWebPCoder.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		28D8AA3D3015E075692FD3E3 /* Pods-SDWebImageWebPCoderTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SDWebImageWebPCoderTests.debug.xcconfig"; path = "SDWebImageWebPCoderTests/Pods/Target Support Files/Pods-SDWebImageWebPCoderTests/Pods-SDWebImageWebPCoderTests.debug.xcconfig"; sourceTree = "<group>"; };
-		3217BE7B220547EB003D0310 /* SDWebImageWebPCoder.modulemap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.module-map"; path = SDWebImageWebPCoder.modulemap; sourceTree = "<group>"; };
+		3217BE7B220547EB003D0310 /* JKSDWebImageWebPCoder.modulemap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.module-map"; path = JKSDWebImageWebPCoder.modulemap; sourceTree = "<group>"; };
 		3219F3B1228B0453003822A6 /* TestImageBlendAnimated.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = TestImageBlendAnimated.webp; sourceTree = "<group>"; };
 		46F21AD7D1692EBAC4D0FF33 /* Pods_SDWebImageWebPCoderTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SDWebImageWebPCoderTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		806E779D2136A1C000A316D2 /* JKSDWebImageWebPCoder.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JKSDWebImageWebPCoder.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -61,13 +40,10 @@
 		808C919B213FD2B2004B0F7C /* TestImageAnimated.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = TestImageAnimated.webp; sourceTree = "<group>"; };
 		80BFF2332136AA9100B95470 /* libwebp.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = libwebp.framework; path = Carthage/Build/iOS/libwebp.framework; sourceTree = "<group>"; };
 		80BFF2342136AA9100B95470 /* SDWebImage.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SDWebImage.framework; path = Carthage/Build/iOS/SDWebImage.framework; sourceTree = "<group>"; };
-		80BFF2402136BA4900B95470 /* SDWebImageWebPCoder.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SDWebImageWebPCoder.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		80BFF2492136BB0D00B95470 /* libwebp.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = libwebp.framework; path = Carthage/Build/Mac/libwebp.framework; sourceTree = "<group>"; };
 		80BFF24A2136BB0D00B95470 /* SDWebImage.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SDWebImage.framework; path = Carthage/Build/Mac/SDWebImage.framework; sourceTree = "<group>"; };
-		80BFF2572136BDBE00B95470 /* SDWebImageWebPCoder.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SDWebImageWebPCoder.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		80BFF2652136BE4200B95470 /* SDWebImage.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SDWebImage.framework; path = Carthage/Build/tvOS/SDWebImage.framework; sourceTree = "<group>"; };
 		80BFF2662136BE4200B95470 /* libwebp.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = libwebp.framework; path = Carthage/Build/tvOS/libwebp.framework; sourceTree = "<group>"; };
-		80BFF26E2136BE7900B95470 /* SDWebImageWebPCoder.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SDWebImageWebPCoder.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		80BFF2772136BEE000B95470 /* SDWebImage.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SDWebImage.framework; path = Carthage/Build/watchOS/SDWebImage.framework; sourceTree = "<group>"; };
 		80BFF2782136BEE000B95470 /* libwebp.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = libwebp.framework; path = Carthage/Build/watchOS/libwebp.framework; sourceTree = "<group>"; };
 		D92E6791BF088D1A101E670E /* Pods-SDWebImageWebPCoderTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SDWebImageWebPCoderTests.release.xcconfig"; path = "SDWebImageWebPCoderTests/Pods/Target Support Files/Pods-SDWebImageWebPCoderTests/Pods-SDWebImageWebPCoderTests.release.xcconfig"; sourceTree = "<group>"; };
@@ -88,33 +64,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				0EF5B6264833B7BC20894578 /* Pods_SDWebImageWebPCoderTests.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		80BFF23C2136BA4900B95470 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				80BFF24C2136BB0D00B95470 /* SDWebImage.framework in Frameworks */,
-				80BFF24B2136BB0D00B95470 /* libwebp.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		80BFF2532136BDBE00B95470 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				80BFF2682136BE4200B95470 /* libwebp.framework in Frameworks */,
-				80BFF2672136BE4200B95470 /* SDWebImage.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		80BFF26A2136BE7900B95470 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				80BFF27A2136BEE000B95470 /* libwebp.framework in Frameworks */,
-				80BFF2792136BEE000B95470 /* SDWebImage.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -145,9 +94,6 @@
 			isa = PBXGroup;
 			children = (
 				806E779D2136A1C000A316D2 /* JKSDWebImageWebPCoder.framework */,
-				80BFF2402136BA4900B95470 /* SDWebImageWebPCoder.framework */,
-				80BFF2572136BDBE00B95470 /* SDWebImageWebPCoder.framework */,
-				80BFF26E2136BE7900B95470 /* SDWebImageWebPCoder.framework */,
 				808C918B213FD130004B0F7C /* SDWebImageWebPCoderTests.xctest */,
 			);
 			name = Products;
@@ -179,7 +125,7 @@
 			isa = PBXGroup;
 			children = (
 				806E77B02136A2E900A316D2 /* Info.plist */,
-				3217BE7B220547EB003D0310 /* SDWebImageWebPCoder.modulemap */,
+				3217BE7B220547EB003D0310 /* JKSDWebImageWebPCoder.modulemap */,
 				806E77C62136A7AD00A316D2 /* JKSDWebImageWebPCoder.h */,
 			);
 			path = Module;
@@ -273,36 +219,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		80BFF23D2136BA4900B95470 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				80BFF2502136BC1500B95470 /* UIImage+WebP.h in Headers */,
-				80BFF24D2136BC0600B95470 /* JKSDWebImageWebPCoder.h in Headers */,
-				80BFF24E2136BC1000B95470 /* SDImageWebPCoder.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		80BFF2542136BDBE00B95470 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				80BFF2632136BE2200B95470 /* JKSDWebImageWebPCoder.h in Headers */,
-				80BFF2612136BE1C00B95470 /* UIImage+WebP.h in Headers */,
-				80BFF25F2136BE1700B95470 /* SDImageWebPCoder.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		80BFF26B2136BE7900B95470 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				80BFF27F2136BEF200B95470 /* JKSDWebImageWebPCoder.h in Headers */,
-				80BFF27D2136BEED00B95470 /* UIImage+WebP.h in Headers */,
-				80BFF27B2136BEE700B95470 /* SDImageWebPCoder.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
@@ -343,60 +259,6 @@
 			productReference = 808C918B213FD130004B0F7C /* SDWebImageWebPCoderTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		80BFF23F2136BA4900B95470 /* SDWebImageWebPCoder-macos */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 80BFF2452136BA4900B95470 /* Build configuration list for PBXNativeTarget "SDWebImageWebPCoder-macos" */;
-			buildPhases = (
-				80BFF23B2136BA4900B95470 /* Sources */,
-				80BFF23C2136BA4900B95470 /* Frameworks */,
-				80BFF23D2136BA4900B95470 /* Headers */,
-				80BFF23E2136BA4900B95470 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "SDWebImageWebPCoder-macos";
-			productName = "SDWebImageWebPCoder-macos";
-			productReference = 80BFF2402136BA4900B95470 /* SDWebImageWebPCoder.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		80BFF2562136BDBE00B95470 /* SDWebImageWebPCoder-tvos */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 80BFF25C2136BDBE00B95470 /* Build configuration list for PBXNativeTarget "SDWebImageWebPCoder-tvos" */;
-			buildPhases = (
-				80BFF2522136BDBE00B95470 /* Sources */,
-				80BFF2532136BDBE00B95470 /* Frameworks */,
-				80BFF2542136BDBE00B95470 /* Headers */,
-				80BFF2552136BDBE00B95470 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "SDWebImageWebPCoder-tvos";
-			productName = "SDWebImageWebPCoder-tvos";
-			productReference = 80BFF2572136BDBE00B95470 /* SDWebImageWebPCoder.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		80BFF26D2136BE7900B95470 /* SDWebImageWebPCoder-watchos */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 80BFF2732136BE7900B95470 /* Build configuration list for PBXNativeTarget "SDWebImageWebPCoder-watchos" */;
-			buildPhases = (
-				80BFF2692136BE7900B95470 /* Sources */,
-				80BFF26A2136BE7900B95470 /* Frameworks */,
-				80BFF26B2136BE7900B95470 /* Headers */,
-				80BFF26C2136BE7900B95470 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "SDWebImageWebPCoder-watchos";
-			productName = "SDWebImageWebPCoder-watchos";
-			productReference = 80BFF26E2136BE7900B95470 /* SDWebImageWebPCoder.framework */;
-			productType = "com.apple.product-type.framework";
-		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -410,15 +272,6 @@
 						CreatedOnToolsVersion = 9.4.1;
 					};
 					808C918A213FD130004B0F7C = {
-						CreatedOnToolsVersion = 9.4.1;
-					};
-					80BFF23F2136BA4900B95470 = {
-						CreatedOnToolsVersion = 9.4.1;
-					};
-					80BFF2562136BDBE00B95470 = {
-						CreatedOnToolsVersion = 9.4.1;
-					};
-					80BFF26D2136BE7900B95470 = {
 						CreatedOnToolsVersion = 9.4.1;
 					};
 				};
@@ -436,9 +289,6 @@
 			projectRoot = "";
 			targets = (
 				806E779C2136A1C000A316D2 /* SDWebImageWebPCoder */,
-				80BFF23F2136BA4900B95470 /* SDWebImageWebPCoder-macos */,
-				80BFF2562136BDBE00B95470 /* SDWebImageWebPCoder-tvos */,
-				80BFF26D2136BE7900B95470 /* SDWebImageWebPCoder-watchos */,
 				808C918A213FD130004B0F7C /* SDWebImageWebPCoderTests */,
 			);
 		};
@@ -459,27 +309,6 @@
 				3219F3B2228B0453003822A6 /* TestImageBlendAnimated.webp in Resources */,
 				808C919D213FD2B2004B0F7C /* TestImageAnimated.webp in Resources */,
 				808C919C213FD2B2004B0F7C /* TestImageStatic.webp in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		80BFF23E2136BA4900B95470 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		80BFF2552136BDBE00B95470 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		80BFF26C2136BE7900B95470 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -543,33 +372,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				808C918E213FD131004B0F7C /* SDWebImageWebPCoderTests.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		80BFF23B2136BA4900B95470 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				80BFF24F2136BC1300B95470 /* SDImageWebPCoder.m in Sources */,
-				80BFF2512136BC1800B95470 /* UIImage+WebP.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		80BFF2522136BDBE00B95470 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				80BFF2602136BE1A00B95470 /* SDImageWebPCoder.m in Sources */,
-				80BFF2622136BE1F00B95470 /* UIImage+WebP.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		80BFF2692136BE7900B95470 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				80BFF27C2136BEEB00B95470 /* SDImageWebPCoder.m in Sources */,
-				80BFF27E2136BEF000B95470 /* UIImage+WebP.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -801,144 +603,6 @@
 			};
 			name = Release;
 		};
-		80BFF2462136BA4900B95470 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				COMBINE_HIDPI_IMAGES = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/Carthage/Build/Mac",
-				);
-				FRAMEWORK_VERSION = A;
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/../Frameworks",
-					"@loader_path/Frameworks",
-				);
-				SDKROOT = macosx;
-				SUPPORTED_PLATFORMS = macosx;
-			};
-			name = Debug;
-		};
-		80BFF2472136BA4900B95470 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				COMBINE_HIDPI_IMAGES = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/Carthage/Build/Mac",
-				);
-				FRAMEWORK_VERSION = A;
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/../Frameworks",
-					"@loader_path/Frameworks",
-				);
-				SDKROOT = macosx;
-				SUPPORTED_PLATFORMS = macosx;
-			};
-			name = Release;
-		};
-		80BFF25D2136BDBE00B95470 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/Carthage/Build/tvOS",
-				);
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				SDKROOT = appletvos;
-				SUPPORTED_PLATFORMS = "appletvsimulator appletvos";
-				TARGETED_DEVICE_FAMILY = 3;
-			};
-			name = Debug;
-		};
-		80BFF25E2136BDBE00B95470 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/Carthage/Build/tvOS",
-				);
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				SDKROOT = appletvos;
-				SUPPORTED_PLATFORMS = "appletvsimulator appletvos";
-				TARGETED_DEVICE_FAMILY = 3;
-			};
-			name = Release;
-		};
-		80BFF2742136BE7900B95470 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				APPLICATION_EXTENSION_API_ONLY = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/Carthage/Build/watchOS",
-				);
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				SDKROOT = watchos;
-				SUPPORTED_PLATFORMS = "watchsimulator watchos";
-				TARGETED_DEVICE_FAMILY = 4;
-			};
-			name = Debug;
-		};
-		80BFF2752136BE7900B95470 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				APPLICATION_EXTENSION_API_ONLY = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/Carthage/Build/watchOS",
-				);
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				SDKROOT = watchos;
-				SUPPORTED_PLATFORMS = "watchsimulator watchos";
-				TARGETED_DEVICE_FAMILY = 4;
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -965,33 +629,6 @@
 			buildConfigurations = (
 				808C9193213FD131004B0F7C /* Debug */,
 				808C9194213FD131004B0F7C /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		80BFF2452136BA4900B95470 /* Build configuration list for PBXNativeTarget "SDWebImageWebPCoder-macos" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				80BFF2462136BA4900B95470 /* Debug */,
-				80BFF2472136BA4900B95470 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		80BFF25C2136BDBE00B95470 /* Build configuration list for PBXNativeTarget "SDWebImageWebPCoder-tvos" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				80BFF25D2136BDBE00B95470 /* Debug */,
-				80BFF25E2136BDBE00B95470 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		80BFF2732136BE7900B95470 /* Build configuration list for PBXNativeTarget "SDWebImageWebPCoder-watchos" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				80BFF2742136BE7900B95470 /* Debug */,
-				80BFF2752136BE7900B95470 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

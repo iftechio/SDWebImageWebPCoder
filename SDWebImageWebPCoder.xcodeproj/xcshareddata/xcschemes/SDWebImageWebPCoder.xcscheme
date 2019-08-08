@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "806E779C2136A1C000A316D2"
-               BuildableName = "SDWebImageWebPCoder.framework"
+               BuildableName = "JKSDWebImageWebPCoder.framework"
                BlueprintName = "SDWebImageWebPCoder"
                ReferencedContainer = "container:SDWebImageWebPCoder.xcodeproj">
             </BuildableReference>
@@ -46,7 +46,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "806E779C2136A1C000A316D2"
-            BuildableName = "SDWebImageWebPCoder.framework"
+            BuildableName = "JKSDWebImageWebPCoder.framework"
             BlueprintName = "SDWebImageWebPCoder"
             ReferencedContainer = "container:SDWebImageWebPCoder.xcodeproj">
          </BuildableReference>
@@ -64,7 +64,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "806E779C2136A1C000A316D2"
-            BuildableName = "SDWebImageWebPCoder.framework"
+            BuildableName = "JKSDWebImageWebPCoder.framework"
             BlueprintName = "SDWebImageWebPCoder"
             ReferencedContainer = "container:SDWebImageWebPCoder.xcodeproj">
          </BuildableReference>
