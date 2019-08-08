@@ -446,7 +446,7 @@
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = org.SDWebImage.SDWebImageWebPCoder;
-				PRODUCT_NAME = SDWebImageWebPCoder;
+				PRODUCT_NAME = JKSDWebImageWebPCoder;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
@@ -520,7 +520,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				PRODUCT_BUNDLE_IDENTIFIER = org.SDWebImage.SDWebImageWebPCoder;
-				PRODUCT_NAME = SDWebImageWebPCoder;
+				PRODUCT_NAME = JKSDWebImageWebPCoder;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
