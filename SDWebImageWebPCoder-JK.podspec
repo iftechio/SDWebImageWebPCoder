@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = 'JKSDWebImageWebPCoder'
+  s.name             = 'SDWebImageWebPCoder-JK'
   s.version          = '0.2.3'
   s.summary          = 'WebP decoder/encoder for SDWebImage coder plugin.'
 

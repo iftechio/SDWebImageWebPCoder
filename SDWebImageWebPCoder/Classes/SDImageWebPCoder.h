@@ -15,4 +15,6 @@
 
 @property (nonatomic, class, readonly, nonnull) SDImageWebPCoder *sharedCoder;
 
++ (BOOL)isAnimatedWebPData:(nullable NSData *)data;
+
 @end

@@ -1,5 +1,5 @@
-framework module SDWebImageWebPCoder {
-  umbrella header "SDWebImageWebPCoder.h"
+framework module JKSDWebImageWebPCoder {
+  umbrella header "JKSDWebImageWebPCoder.h"
 
   export *
   module * { export * }

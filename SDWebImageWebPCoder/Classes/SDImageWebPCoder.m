@@ -861,4 +861,19 @@ static void FreeImageData(void *info, const void *data, size_t size) {
     return image;
 }
 
++ (BOOL)isAnimatedWebPData:(nullable NSData *)data {
+    WebPData webpData;
+    WebPDataInit(&webpData);
+    webpData.bytes = data.bytes;
+    webpData.size = data.length;
+    WebPDemuxer *demuxer = WebPDemux(&webpData);
+    if (!demuxer) {
+        return nil;
+    }
+    
+    uint32_t flags = WebPDemuxGetI(demuxer, WEBP_FF_FORMAT_FLAGS);
+    BOOL hasAnimation = flags & ANIMATION_FLAG;
+    return hasAnimation;
+}
+
 @end
